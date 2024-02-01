@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/anton/cpp_files/lab3/build",
+  "command": "/usr/bin/c++  -I/home/anton/cpp_files/lab3/include -g -std=gnu++23 -o CMakeFiles/Main.dir/main_files/main.cpp.o -c /home/anton/cpp_files/lab3/main_files/main.cpp",
+  "file": "/home/anton/cpp_files/lab3/main_files/main.cpp"
+},
+{
+  "directory": "/home/anton/cpp_files/lab3/build",
+  "command": "/usr/bin/c++  -I/home/anton/cpp_files/lab3/include -g -std=gnu++23 -o CMakeFiles/Main2.dir/main_files/main2.cpp.o -c /home/anton/cpp_files/lab3/main_files/main2.cpp",
+  "file": "/home/anton/cpp_files/lab3/main_files/main2.cpp"
+},
+{
+  "directory": "/home/anton/cpp_files/lab3/build",
+  "command": "/usr/bin/c++  -I/home/anton/cpp_files/lab3/include -g -std=gnu++23 -o CMakeFiles/SetTest.dir/tests/set_test.cpp.o -c /home/anton/cpp_files/lab3/tests/set_test.cpp",
+  "file": "/home/anton/cpp_files/lab3/tests/set_test.cpp"
+},
+{
+  "directory": "/home/anton/cpp_files/lab3/build",
+  "command": "/usr/bin/c++  -I/home/anton/cpp_files/lab3/include -g -std=gnu++23 -o CMakeFiles/SplayTest.dir/tests/splay_test.cpp.o -c /home/anton/cpp_files/lab3/tests/splay_test.cpp",
+  "file": "/home/anton/cpp_files/lab3/tests/splay_test.cpp"
+},
+{
+  "directory": "/home/anton/cpp_files/lab3/build",
+  "command": "/usr/bin/c++  -I/home/anton/cpp_files/lab3/include -g -std=gnu++23 -o CMakeFiles/CacheTest.dir/tests/cache_test.cpp.o -c /home/anton/cpp_files/lab3/tests/cache_test.cpp",
+  "file": "/home/anton/cpp_files/lab3/tests/cache_test.cpp"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/CacheTest.dir/tests/cache_test.cpp.o -o CacheTest  -lgtest -lgtest_main 

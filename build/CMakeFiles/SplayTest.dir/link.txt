@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/SplayTest.dir/tests/splay_test.cpp.o -o SplayTest  -lgtest -lgtest_main 
