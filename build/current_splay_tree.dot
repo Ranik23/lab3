@@ -1,6 +1,0 @@
-digraph splay_tree {
-    node [shape=circle];
-    453;
-    453 -> 43;
-    43;
-}

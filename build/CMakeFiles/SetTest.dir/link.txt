@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/SetTest.dir/tests/set_test.cpp.o -o SetTest  -lgtest -lgtest_main 

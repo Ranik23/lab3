@@ -1,7 +1,0 @@
-/home/anton/cpp_files/lab3/build/CMakeFiles/Main.dir
-/home/anton/cpp_files/lab3/build/CMakeFiles/Main2.dir
-/home/anton/cpp_files/lab3/build/CMakeFiles/SetTest.dir
-/home/anton/cpp_files/lab3/build/CMakeFiles/SplayTest.dir
-/home/anton/cpp_files/lab3/build/CMakeFiles/CacheTest.dir
-/home/anton/cpp_files/lab3/build/CMakeFiles/edit_cache.dir
-/home/anton/cpp_files/lab3/build/CMakeFiles/rebuild_cache.dir
